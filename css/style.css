@@ -22,12 +22,12 @@
 }
 
 body {
-  background-color: cyan;
+  background-color: lightskyblue;
 }
 
 p {
-  color: blueviolet;
+  color: blue;
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 1.5rem;
-  padding-top: 5pt;
+  font-size: 7rem;
+  padding-top: 2pt;
 }
